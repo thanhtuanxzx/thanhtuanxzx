@@ -48,11 +48,11 @@
   </a> 
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> 
- <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+ <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongo" width="40" height="40"/>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongobd" width="40" height="40"/>
   </a> 
    
        
