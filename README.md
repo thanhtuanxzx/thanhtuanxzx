@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thanh Tuan </h1>
 <h3 align="center">Viet Nam</h3>
 <img align="right" alt="Hacking" width="400" src="https://giffiles.alphacoders.com/174/1744.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhtuanxzx&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtuanxzx" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thanhtuanxzx&label=Profile%20views&color=0e75b6&style=for-the-badge" width="350"/>
+</p>
 
 - 🔭 I’m currently working on **n00b_hacker**
 
-- 🌱 I’m currently learning **Burp suite**
+- 🌱 I’m currently learning **Burp suite**a
 
 - 💬 Ask me about **security**
 
