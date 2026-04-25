@@ -1,65 +1,73 @@
-<h1 align="center">Hi 👋, I'm Thanh Tuan </h1>
-<h3 align="center">Viet Nam</h3>
-<img align="right" alt="Hacking" width="400" src="https://giffiles.alphacoders.com/174/1744.gif"
+<h1 align="center">Hi 👋, I'm Thanh Tuan</h1>
+<h3 align="center">🛡️ Cybersecurity Enthusiast from Viet Nam 🇻🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanhtuanxzx&label=Profile%20views&color=0e75b6&style=flat-square&labelColor=333" alt="thanhtuanxzx" width="220px"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="60%" valign="top" style="border: none;">
+        <ul>
+          <li>🔭 I’m currently working on: <strong>n00b_hacker</strong></li>
+          <li>🌱 I’m currently learning: <strong>Burp Suite & Web Penetration Testing</strong></li>
+          <li>💬 Ask me about: <strong>Web Security, Linux, or CTFs</strong></li>
+          <li>📫 Reach me at: <a href="mailto:tuanzingm@gmail.com">tuanzingm@gmail.com</a></li>
+          <li>⚡ Fun fact: <strong>Every second, there are thousands of cyber attacks happening globally.</strong></li>
+        </ul>
+      </td>
+      <td width="40%" align="right" valign="top" style="border: none;">
+        <img alt="Hacking" width="100%" style="max-width: 400px;" src="https://giffiles.alphacoders.com/174/1744.gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thanhtuanxzx&label=Profile%20views&color=0e75b6&style=for-the-badge" width="350"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on **n00b_hacker**
+---
 
-- 🌱 I’m currently learning **Burp suite**a
+### 📊 Github Stats
 
-- 💬 Ask me about **security**
-
-- 📫 How to reach me **tuanzingm@gmail.com**
-
-- ⚡ Fun fact **Real-Time attack show around 10 million attacks**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/> 
-  </a> 
- <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongobd" width="40" height="40"/>
-  </a> 
-   
-       
+<p align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thanhtuanxzx&show_icons=true&theme=tokyonight&count_private=true" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanxzx&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtuanxzx&show_icons=true&locale=en&layout=compact" alt="thanhtuanxzx" /></p>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanxzx&theme=tokyonight" alt="thanhtuanxzx" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtuanxzx&show_icons=true&locale=en" alt="thanhtuanxzx" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanxzx&" alt="thanhtuanxzx" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+</p>
