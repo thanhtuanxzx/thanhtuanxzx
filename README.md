@@ -25,6 +25,7 @@
         <li>🌱 I’m currently learning: <strong>Burp Suite & Web Penetration Testing</strong></li>
         <li>💬 Ask me about: <strong>Web Security, Linux, or CTFs</strong></li>
         <li>📫 Reach me at: <a href="mailto:tuanzingm@gmail.com">tuanzingm@gmail.com</a></li>
+        <li>🌐 My Website: <a href="https://element-trac.id.vn">element-trac.id.vn</a></li>
         <li>⚡ Fun fact: <strong>Every second, there are thousands of cyber attacks happening globally.</strong></li>
       </ul>
     </td>
@@ -80,6 +81,9 @@
 ### 🤝 Connect with me
 
 <p align="center">
+  <a href="https://element-trac.id.vn">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:tuanzingm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
