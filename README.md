@@ -140,9 +140,8 @@
 ### 🎧 Tactical Frequency / Spotify Activity
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true" target="_blank">
-    <!-- Replace YOUR_SPOTIFY_UID with your actual UID from spotify-github-profile.kittinanx.com -->
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" alt="Listening on Spotify" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjtw36af72w65hrm7ttfmecvuu&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjtw36af72w65hrm7ttfmecvuu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" alt="Listening on Spotify" />
   </a>
 </p>
 
