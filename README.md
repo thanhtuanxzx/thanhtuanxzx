@@ -1,93 +1,142 @@
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Thanh%20Tuan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20from%20Viet%20Nam%20🇻🇳&descAlignY=55&descAlign=50" width="100%"/>
+<!-- ======================================================= -->
+<!-- HEADER SECTION WITH CYBERPUNK / TERMINAL NEON GRADIENT -->
+<!-- ======================================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22,25&height=220&section=header&text=THANH%20TUAN&fontSize=48&fontColor=00F5D4&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Bug%20Bounty%20%7C%20Web%20Penetration%20Tester&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 
 <p align="center">
   <a href="https://github.com/thanhtuanxzx">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast+🛡️;Bug+Bounty+Hunter+🐛;Web+Penetration+Tester+💻;Always+Learning+%26+Growing+🌱" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=620&height=40&lines=echo+%22Welcome+to+my+Security+Operations+Center%22;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Web+Penetration+Tester+%26+Bug+Bounty+%F0%9F%90%9B;CTF+Player+%7C+Continuous+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/thanhtuanxzx">
-    <img src="https://komarev.com/ghpvc/?username=thanhtuanxzx&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=333" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=thanhtuanxzx&label=Profile%20Visitors&color=00f5d4&style=flat-square&labelColor=0d1117" alt="Profile Views" />
   </a>
+  <img src="https://img.shields.io/badge/Status-Securing%20the%20Web-00f5d4?style=flat-square&logo=hackthebox&logoColor=00f5d4&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-OWASP%20Top%2010-ff0055?style=flat-square&logo=owasp&logoColor=white&labelColor=0d1117" alt="Focus" />
 </p>
 
 ---
 
-### 🚀 About Me
+<!-- ======================================================= -->
+<!-- TERMINAL / NEOFETCH TELEMETRY BOX                      -->
+<!-- ======================================================= -->
+### ⚡ `root@thanhtuan:~# neofetch`
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+```bash
+ -----------------------------------------------------------------------
+  OS        : Kali Linux / Linux 6.x-hardened x86_64
+  Host      : Security Operations & Red Teaming Lab
+  Uptime    : 24/7 Threat Hunting, CTFs & Learning
+  Role      : Cybersecurity Enthusiast & Web Penetration Tester
+  Target    : Web App Security, OWASP Top 10, API & Network Pentest
+  Focus     : Burp Suite Pro, Vulnerability Research & Bug Bounty
+  Project   : n00b_hacker (Security Toolkit & Writeups)
+  Website   : https://element-trac.id.vn
+  Contact   : tuanzingm@gmail.com
+ -----------------------------------------------------------------------
+```
+
+---
+
+<!-- ======================================================= -->
+<!-- ABOUT ME & HIGHLIGHTS                                  -->
+<!-- ======================================================= -->
+### 🎯 Mission & Research Areas
+
+<table>
   <tr>
-    <td width="60%" valign="top" style="border: none;">
+    <td width="65%" valign="top">
       <ul>
-        <li>🔭 I’m currently working on: <strong>n00b_hacker</strong></li>
-        <li>🌱 I’m currently learning: <strong>Burp Suite & Web Penetration Testing</strong></li>
-        <li>💬 Ask me about: <strong>Web Security, Linux, or CTFs</strong></li>
-        <li>📫 Reach me at: <a href="mailto:tuanzingm@gmail.com">tuanzingm@gmail.com</a></li>
-        <li>🌐 My Website: <a href="https://element-trac.id.vn">element-trac.id.vn</a></li>
-        <li>⚡ Fun fact: <strong>Every second, there are thousands of cyber attacks happening globally.</strong></li>
+        <li>🛡️ <strong>Specialization:</strong> Web Application Penetration Testing, Source Code Review & Reconnaissance.</li>
+        <li>🔍 <strong>Methodology:</strong> Following OWASP Top 10, PTES, and WSTG standards.</li>
+        <li>🔭 <strong>Current Project:</strong> Developing offensive security tools & writeups (<code>n00b_hacker</code>).</li>
+        <li>🌱 <strong>Skill Progression:</strong> Deep diving into Burp Suite, API vulnerabilities & PrivEsc.</li>
+        <li>🚩 <strong>CTF & Practice:</strong> Practicing on PortSwigger Web Security Academy, TryHackMe, and HackTheBox.</li>
+        <li>💬 <strong>Collaborate on:</strong> Open-source security tools, vulnerability scanners, and CTF challenges.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img alt="Hacking GIF" width="250" src="https://giffiles.alphacoders.com/174/1744.gif" style="border-radius: 10px;" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://giffiles.alphacoders.com/174/1744.gif" width="240" style="border-radius: 8px; border: 1px solid #30363d;" alt="Security Radar" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Languages and Tools
+<!-- ======================================================= -->
+<!-- TECH ARSENAL & TOOLKIT (TRENDING SKILL ICONS + BADGES) -->
+<!-- ======================================================= -->
+### 🛠️ Arsenal & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
-  <tr>
-    <td align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/thanhtuanxzx">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=thanhtuanxzx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/thanhtuanxzx">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thanhtuanxzx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <a href="https://github.com/thanhtuanxzx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanxzx&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <strong>Programming & Scripting Languages</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,js,php,java,nodejs&theme=dark" alt="Languages" />
   </a>
 </p>
 
----
-
-### 🤝 Connect with me
+<p align="center">
+  <strong>Security, Operating Systems & Infrastructure</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,docker,git,mysql,mongodb,postman,powershell&theme=dark" alt="Tools & OS" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://element-trac.id.vn">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <!-- Specialized Security Tools (Shields.io Modern Flat-Square) -->
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Nmap-002B49?style=for-the-badge&logo=wireshark&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-1369AC?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+---
+
+<!-- ======================================================= -->
+<!-- GITHUB LIVE TELEMETRY / STATS                          -->
+<!-- ======================================================= -->
+### 📊 Security Telemetry & GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhtuanxzx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" width="48%" alt="Thanh Tuan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtuanxzx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtuanxzx&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakNum=00f5d4" width="96%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtuanxzx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_title=false" width="96%" alt="Activity Graph" />
+</p>
+
+---
+
+<!-- ======================================================= -->
+<!-- CONNECT & SOCIALS                                      -->
+<!-- ======================================================= -->
+### 🌐 Transmit Signal / Connect
+
+<p align="center">
+  <a href="https://element-trac.id.vn" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Site-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Website" />
   </a>
   <a href="mailto:tuanzingm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Encrypted_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+  <a href="https://github.com/thanhtuanxzx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
 </p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+<!-- ======================================================= -->
+<!-- FOOTER                                                  -->
+<!-- ======================================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,22,11,6&height=100&section=footer" width="100%" alt="Footer Banner" />
+</p>
