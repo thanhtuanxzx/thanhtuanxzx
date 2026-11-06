@@ -52,27 +52,17 @@
 </p>
 
 <!-- ======================================================= -->
-<!-- 🚀 EXPEDITION & MISSION OBJECTIVES (ANIMATED ASTRONAUT) -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME (PLATANE/SNK)                 -->
 <!-- ======================================================= -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> Cosmic Mission & Research Coordinates
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Cosmic Contribution Grid Snake
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <ul>
-        <li>🛡️ <strong>Planetary Defense:</strong> Web Application Penetration Testing, Source Code Review & Recon.</li>
-        <li>🔭 <strong>Deep-Space Navigation:</strong> Navigating OWASP Top 10, PTES, and WSTG security matrices.</li>
-        <li>🛸 <strong>Flagship Project:</strong> Constructing <code>n00b_hacker</code> (Cybersecurity tools, exploit analysis & CTF writeups).</li>
-        <li>⚡ <strong>Reactor Upgrades:</strong> Mastering Burp Suite Pro, Advanced API Security & Privilege Escalation.</li>
-        <li>🪐 <strong>Orbital Proving Grounds:</strong> Active on PortSwigger Academy, TryHackMe, and HackTheBox.</li>
-        <li>💬 <strong>Interstellar Signal:</strong> Open for collaborative threat hunting, tool development, and CTFs.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" style="border-radius: 12px; filter: drop-shadow(0 0 12px rgba(0,245,212,0.35));" alt="Floating Astronaut in Space" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhtuanxzx/thanhtuanxzx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhtuanxzx/thanhtuanxzx/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/thanhtuanxzx/thanhtuanxzx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <!-- Glowing Cosmic Laser Divider -->
 <p align="center">
