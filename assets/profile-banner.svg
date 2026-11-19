@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyễn Thành Tuấn</title>
+  <desc id="desc">A dark orbital radar graphic in cyan and violet.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0e1a2e"/>
+      <stop offset="1" stop-color="#070912"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#762de3" stop-opacity=".43"/>
+      <stop offset="1" stop-color="#762de3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit">
+      <stop stop-color="#7cfce7"/>
+      <stop offset="1" stop-color="#a487ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#86b4ed" stroke-opacity=".13"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="358" rx="21"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <ellipse cx="964" cy="178" rx="340" ry="295" fill="url(#glow)"/>
+    <rect x="685" width="515" height="360" fill="url(#grid)"/>
+    <path d="M57 52H222 M57 308H1143" stroke="#587596" stroke-opacity=".55"/>
+    <path d="M57 52H110 M57 308H145" stroke="#7cfce7" stroke-width="2"/>
+
+    <g transform="translate(963 180)">
+      <path d="M-166 0H166M0-157V157" stroke="#7a91b0" stroke-opacity=".48" stroke-dasharray="4 8"/>
+      <circle r="143" fill="none" stroke="#8898ba" stroke-opacity=".5" stroke-dasharray="2 7"/>
+      <circle r="114" fill="#0b1426" fill-opacity=".6" stroke="#809ac1" stroke-opacity=".46"/>
+      <circle r="83" fill="none" stroke="#809ac1" stroke-opacity=".42"/>
+      <circle r="52" fill="#151a37" stroke="url(#orbit)" stroke-width="2"/>
+      <circle r="34" fill="none" stroke="#7cfce7" stroke-opacity=".38"/>
+      <ellipse rx="151" ry="60" transform="rotate(-30)" fill="none" stroke="url(#orbit)" stroke-opacity=".8"/>
+      <path d="M-86-110A140 140 0 0 1 27-137 M91 106A140 140 0 0 1 7 140" fill="none" stroke="url(#orbit)" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-14-10-25 0-14 10M14-10 25 0 14 10M6-15-6 15" fill="none" stroke="#d9fff8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="116" cy="-70" r="7" fill="#7cfce7"/>
+      <circle cx="-77" cy="76" r="5" fill="#ad93ff"/>
+    </g>
+
+    <text x="56" y="112" fill="#7cfce7" font-family="Consolas, monospace" font-size="25" letter-spacing="3">@thanhtuanxzx</text>
+    <text x="52" y="193" fill="#f4f7ff" font-family="Segoe UI, DejaVu Sans, sans-serif" font-weight="700" font-size="62">Nguyễn Thành Tuấn</text>
+    <text x="56" y="249" fill="#c2d2ec" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="29">Web security · Bug bounty · Developer tools</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#586788" stroke-opacity=".7"/>
+</svg>
